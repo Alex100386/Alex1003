@@ -1,0 +1,78 @@
+.first {
+	font-size: 30px;
+}
+.second {
+	font-size: 25px;
+}
+.third {
+	font-size: 20px;
+}
+
+body {
+	font-family: "Georgia", serif;
+	font-size: 16px;
+	line-height: 26px;
+}
+
+#promo {
+	color: lightslategray;
+}
+
+div {
+	background-color: #4470c4;	  
+	padding: 20px;
+	color: #ffffff;
+	border-width: 5px;
+	border-style: solid;
+	border-color: #2d508f;
+}
+
+div a {
+	color: white;
+}
+
+.avatar {
+	border-radius: 20px;
+}
+
+.navigation-list {
+	list-style: none;
+	margin: 0;
+}
+
+.features {
+	list-style: square;
+}
+
+.navigation-list li {
+	text-transform: uppercase;
+}
+
+p {
+	font-style: italic;
+}
+
+.label {
+	color: red;
+}
+
+span {
+	font-style: normal;
+}
+/* padding-left: 0; */
+li a {
+	text-decoration: wavy;
+}
+
+.navigation-list a {
+	text-decoration: none;
+}
+
+.gallery-image {
+	border: 5px solid #002699;
+	border-radius: 20px;
+}
+
+.gallery-link {
+	text-decoration: none;
+}
